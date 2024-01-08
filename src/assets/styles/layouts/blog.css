@@ -1,0 +1,5 @@
+
+/* Additional styles image source */
+.image-source {
+    @apply text-xs text-green-700 italic break-all;
+  }
