@@ -1,0 +1,11 @@
+:root {
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family-serif: "Georgia", "Times New Roman", serif;
+  --font-family-roboto: 'Roboto', sans-serif;
+  --font-weight-bold: 700;
+  --primary-color: #010163;
+  --secondary-color: #167316;
+  --mqMinWidth: 420px;
+  --theme-colors-primary: #010163;
+  --theme-colors-secondary: #167316;
+}

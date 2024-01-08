@@ -1,0 +1,27 @@
+/* Gradient effect */
+.custom-gradient {
+  background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+}
+
+/* Center any element */
+.absolute-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Effect and style for borders */
+.border-effect {
+  transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+  border: 2px solid var(--color);
+}
+
+/* Effect that darkens elements inside */
+.darken-effect:hover {
+  filter: brightness(0.8);
+}
+
+.darken-effect {
+  color: var(--color);
+}
